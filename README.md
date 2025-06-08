@@ -1,0 +1,2 @@
+# ransomware
+ransomware_template
