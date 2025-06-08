@@ -1,0 +1,57 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Encrypted or decrypted data
+*.key
+*.enc
+*.dec
+
+# Sensitive or temporary files
+secret.txt
+*.log
+
+# Test/output directories
+output/
+tmp/
+temp/
+
+# Python environment management
+*.egg-info/
+.eggs/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Cryptography-related temporary key or credential files
+key.txt
+*.pem
+*.crt
+*.csr
+
+# User input/output storage
+*.bak
+*.old
+
+# Prevent accidentally uploading the actual encrypted directory
+encrypted_files/
+decrypted_files/
